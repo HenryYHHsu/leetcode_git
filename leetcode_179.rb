@@ -32,7 +32,7 @@ def largest_number(nums)
     # p nums[0].to_s
     # end
 end
-
+#
 # def largest_number(nums)
 #   answer = nums.sort! do |a, b| 
 #     b.to_s+a.to_s <=> a.to_s+b.to_s
