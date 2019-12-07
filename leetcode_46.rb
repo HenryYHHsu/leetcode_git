@@ -5,8 +5,6 @@ def permute(nums)
     return nums if nums_size==1
     
     
-    
-
 end
 
 # permute([1,2,3]) 
